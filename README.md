@@ -1,4 +1,6 @@
-# redit_clone
+# Tarea de lenguajes 2.1
+Gerson Caleb Montes Murillo
+cuenta: 20222000256
 
 A new Flutter project.
 
